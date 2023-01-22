@@ -6649,7 +6649,7 @@ body {
       -ms-transform: translateX(0);
       -o-transform: translateX(0);
       transform: translateX(0);
-      width: 270px;
+      width: 300px;
       background: rgba(15, 15, 15, 0.287);
       z-index: 999;
       position: fixed; }
